@@ -18,7 +18,7 @@ btn_color = (0, 0, 1, 1)
 
 Window.clearcolor = main_color
 
-age = 9
+age = 7
 name = ""
 p1, p2, p3 = 0, 0, 0
 
