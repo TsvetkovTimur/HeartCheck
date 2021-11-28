@@ -14,7 +14,7 @@ from runner import Runner
 
 
 main_color = (0, 255, 0, 1)
-btn_color = (0, 1, 1, 1)
+btn_color = (0, 0, 1, 1)
 
 Window.clearcolor = main_color
 
